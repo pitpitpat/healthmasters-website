@@ -1,4 +1,4 @@
-# [The Healthmasters](https://www.thehealthmasters.gr/)
+# The Healthmasters website
 
 The Healthmasters Website is a an advertising website for a personal training gym.
 
